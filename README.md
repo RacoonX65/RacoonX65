@@ -1,7 +1,4 @@
 <!-- BANNER -->
-<p align="center">
-  <img src="https://github.com/RacoonX65/Assets/blob/main/banner.png" alt="Judas Sithole Banner" width="100%">
-</p>
 
 <!-- If you don't have a banner yet, I'll make one for you. -->
 
