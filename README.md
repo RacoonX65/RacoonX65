@@ -1,178 +1,169 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="https://github.com/RacoonX65/Assets/blob/main/banner.png" alt="Judas Sithole Banner" width="100%">
+</p>
+
+<!-- If you don't have a banner yet, I'll make one for you. -->
+
 <h1 align="center">🌟 Hi, I'm <strong>Judas Sithole</strong></h1>
 <p align="center">
-  Full Stack Software Engineer • IoT & Embedded Systems • PCB Design • Network Engineering
+  Full Stack Software Engineer • IoT & Embedded Systems • PCB Designer • Network Engineer
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/IoT-Engineer-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-green?style=flat-square">
   <img src="https://img.shields.io/badge/Embedded-Systems-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-green?style=flat-square">
   <img src="https://img.shields.io/badge/PCB-Designer-red?style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=RacoonX65&color=blue&style=flat-square">
 </p>
 
 <p align="center">
-  I build end to end intelligent systems from hardware to firmware to cloud to AI dashboards.<br>
-  My work combines IoT, edge AI, embedded electronics, full stack software and real world engineering.
+  I build hardware, firmware, cloud systems, dashboards and AI-driven automation.<br>
+  My focus is on industrial IoT, predictive maintenance, eCommerce automation and embedded AI.
 </p>
 
 ---
 
-## 📦 Published Arduino Libraries
+# 📦 Published Arduino Libraries
 
-### 🔹 Lightweight IoT
-A minimal and efficient ESP32 library for sending sensor data to cloud platforms.
-  
-**GitHub:** https://github.com/RacoonX65/LightweightIoT-Arduino-Lib 
+### 🔹 Lightweight IoT  
+Minimal ESP32 IoT communication library  
+**Repo:** https://github.com/RacoonX65/LightweightIoT-Arduino-Lib 
 <img src="https://img.shields.io/github/stars/RacoonX65/LightweightIoT-Arduino-Lib?style=social">
 
-### 🔹 ESP32 Calibration Library
-A calibration library using NVS Preferences for persistent sensor offset storage.
-
-**GitHub:** https://github.com/RacoonX65/WiFiEnterprise  
-<img src="https://img.shields.io/github/stars/RacoonX65/WiFiEnterprise?style=social">
-
-### 🔹 ESP32 Enterprise WiFi Library (WPA2 Enterprise)
-A plug and play library for connecting ESP32 devices to WPA2 Enterprise networks such as UJ WiFi.
-
-**GitHub:** https://github.com/RacoonX65/CalibrationLib  
+### 🔹 ESP32 Calibration Library  
+Persistent sensor calibration storage using NVS  
+**Repo:** https://github.com/RacoonX65/CalibrationLib  
 <img src="https://img.shields.io/github/stars/RacoonX65/CalibrationLib?style=social">
 
+### 🔹 ESP32 Enterprise WiFi (WPA2-Enterprise)  
+One-line connection to university WiFi networks (UJ / Eduroam)  
+**Repo:** https://github.com/RacoonX65/WiFiEnterprise  
+<img src="https://img.shields.io/github/stars/RacoonX65/WiFiEnterprise?style=social">
+
 ---
 
-## 🚀 What I Do
+# 🚀 What I Do
+### IoT & Embedded  
+- ESP32/ESP8266 firmware  
+- Edge AI predictive maintenance  
+- Sensor integration: vibration, temp, current, RPM, pH, turbidity, EC/TDS  
+- Industrial relay logic & fault protection  
+- Firebase/MQTT/REST  
+- WPA2-Enterprise systems  
 
-### 🔹 IoT and Embedded Systems
-- ESP32 and ESP8266 firmware in C and C++, OTA updates, secure communication  
-- Edge AI predictive maintenance (SafePulse AI)  
-- Sensor integration for vibration, temperature, current, RPM, pH, turbidity, EC and TDS  
-- Industrial relay protection and fault detection  
-- Firebase, MQTT, REST APIs  
-- WPA2 Enterprise networking using my custom library  
+### PCB Design  
+- KiCad routing  
+- Hand-solder friendly layouts  
+- Power systems & level shifting  
+- ESP32 boards, relay boards  
+- LTspice simulation  
 
-### 🔹 PCB Design and Electronics
-- KiCad schematic design and PCB routing  
-- Through hole and hand solder friendly layouts  
-- Power regulation, buck converters, level shifting  
-- ESP32 sensor boards and relay control boards  
-- LTspice simulation and oscilloscope debugging  
-- Veroboard prototyping  
-
-### 🔹 Full Stack Software Engineering
-- Next.js 15, React, TypeScript  
-- Supabase Auth, Database, Storage and RLS  
-- Firebase Cloud Functions and Realtime DB  
-- Yoco and Paystack payment integration  
+### Full-Stack Software  
+- Next.js 15 • TypeScript • React  
+- Supabase (Auth, DB, Storage, RLS)  
+- Firebase Cloud Functions  
+- Yoco / Paystack payments  
 - Cloudinary pipelines  
-- TailwindCSS and ShadCN UI  
-- Real time APIs, automation and webhooks  
-- AI dashboards with Gemini and OpenAI Realtime  
+- AI dashboards (Gemini / OpenAI Realtime)  
 
-### 🔹 AI, Machine Learning and Automation
-- TensorFlow Lite for edge ML on ESP32  
-- TensorFlow.js for browser ML  
-- Predictive maintenance modelling  
-- Voice enabled AI technician (OpenAI Realtime)  
+### AI & Automation  
+- TensorFlow Lite  
+- TF.js dashboard models  
+- Predictive maintenance ML  
+- Voice-enabled technician AI  
 - WhatsApp AI sales assistant  
-- ML pipelines for IoT sensor data  
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages  
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
-</p>
-
-### Embedded and Hardware  
-<p>
-  <img src="https://img.shields.io/badge/ESP32-black?style=flat-square&logo=espressif">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/KiCad-314CB6?style=flat-square&logo=kicad&logoColor=white">
-</p>
-
-### Cloud and Backend  
-<p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
-</p>
-
-### Frontend  
-<p>
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
-</p>
-
-### AI and ML  
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+# 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,cs,cpp,py,ts,js,react,nextjs,nodejs,postgres,firebase,supabase,cloudflare,tensorflow,git,github,kubernetes,docker,linux&perline=10">
 </p>
 
 ---
 
-## 🔧 Highlighted Projects
+# 🔧 Highlighted Projects
 
-### 🛡️ SafePulse AI
-- ESP32 industrial node  
-- Vibration, temperature, current and RPM monitoring  
-- TensorFlow Lite on device ML  
-- Relay shutdown logic and safety overrides  
-- Electron.js touchscreen dashboard  
-- Firebase backend  
-- OpenAI Realtime voice enabled technician  
-- HMAC SHA256 secure command verification  
+### 🛡️ SafePulse AI  
 <img src="https://img.shields.io/badge/Project-SafePulse_AI-blue?style=flat-square">
+- Predictive maintenance ESP32 node  
+- TFLite ML model  
+- Vibration/current/RPM sensing  
+- Industrial relay cutoff  
+- AI voice technician (OpenAI Realtime)  
+- Firebase backend + HMAC security  
 
 ### 🌐 ApparelCast  
-- Next.js and Supabase full stack architecture  
-- Vendor accounts, analytics and reviews  
-- Yoco payments and Cloudinary  
-- SA micro store system  
 <img src="https://img.shields.io/badge/Project-ApparelCast-pink?style=flat-square">
+- Next.js + Supabase eCommerce engine  
+- Yoco payments  
+- Vendor dashboards  
+- Cloudinary product pipeline  
+- SA micro-store system  
 
 ### 💧 AquaSense  
-- ESP32 water quality platform  
-- Sensor suite for pH, EC, TDS, turbidity and temperature  
-- WPA2 Enterprise using custom library  
-- TensorFlow.js prediction model  
 <img src="https://img.shields.io/badge/Project-AquaSense-blue?style=flat-square">
+- ESP32 water quality system  
+- WPA2-Enterprise  
+- pH, EC/TDS, turbidity, temp  
+- TF.js modelling  
 
 ### 🤖 WhatsApp AI Sales Assistant  
-- NLP powered WhatsApp chatbot  
-- Automated sales flows  
-- Product recommendation engine  
 <img src="https://img.shields.io/badge/Project-WhatsApp_AI-green?style=flat-square">
+- NLP WhatsApp chatbot  
+- Auto-reply + recommendations  
+- Order flow automation  
 
 ---
 
-## 🧪 Current Focus
-- Production grade PCB for SafePulse AI  
-- Edge ML models for motor fault classification  
-- Scalable eCommerce automation for South Africa  
-- High accuracy voice first AI agents  
-- Full IoT to Firebase to AI to Dashboard pipeline  
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RacoonX65&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RacoonX65&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🎯 What I Bring
-- Strong embedded and full stack integration  
-- Real world engineering with motors and sensors  
-- Ability to design, build and deploy complete systems  
-- AI, cloud and hardware fusion  
+# 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RacoonX65&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Let’s Connect
+# 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RacoonX65&theme=tokyo-night&hide_border=true">
+</p>
 
+---
+
+# 🧪 Current Focus
+- Production PCB for SafePulse AI  
+- Edge ML models for motors  
+- SA eCommerce automation  
+- Real-time voice AI agents  
+- IoT → Firebase → AI → Dashboard pipeline  
+
+---
+
+# 🎯 What I Bring
+- Strong embedded + full-stack integration  
+- Real world electronics experience  
+- AI + cloud + hardware fusion  
+- Production-ready engineering  
+
+---
+
+# 📫 Let’s Connect
 <p>
   <a href="https://github.com/RacoonX65">
     <img src="https://img.shields.io/badge/GitHub-RacoonX65-black?style=flat-square&logo=github">
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin">
   </a>
 </p>
